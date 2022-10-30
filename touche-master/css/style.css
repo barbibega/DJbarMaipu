@@ -175,7 +175,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/barbarbar.jpeg) no-repeat center center;
+	background: url(../img/barNUEVAS\ \(6\).jpeg) no-repeat center center;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -252,7 +252,7 @@ header .intro-text {
 	padding: 0 0 60px 0;
 }
 #restaurant-menu .section-title {
-	background: #444 url(../img/BAR1\ \(7\).jpeg) center center no-repeat fixed;
+	background: #444 url(../img/BARnuevas\ \(2\).jpeg) center center no-repeat fixed;
 	background-size: cover;
 }
 #restaurant-menu .section-title h2 {
@@ -305,7 +305,7 @@ header .intro-text {
 	padding: 0 0 120px 0;
 }
 #portfolio .section-title {
-	background: #444 url(../img/BAR1\ \(6\).jpeg) center center no-repeat fixed;
+	background: #444 url(../img/barNUEVAS\ \(4\).jpeg) center center no-repeat fixed;
 	background-size: cover;
 	margin-bottom: 50px;
 }
@@ -425,7 +425,7 @@ ol.type li a:hover {
 /* Team Section */
 #team {
 	color: #fff;
-	background: #444 url(../img/BAR1\ \(9\).jpeg) center top no-repeat fixed;
+	background: #444 url(../img/barNUEVAS\ \(5\).jpeg) center top no-repeat fixed;
 	background-size: cover;
 }
 #team .overlay {
